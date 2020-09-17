@@ -1,7 +1,7 @@
 # LDA-KMEANS
-Diseño, desarrollo e implementación de un sistema de clasificación de fallas usando Text Mining en servicios de mantenimiento y reparación
+**Diseño, desarrollo e implementación de un sistema de clasificación de fallas usando Text Mining en servicios de mantenimiento y reparación**
 
-**Resumen**
+### Resumen
 El estudio se enfoca en dar solución al problema de identificación y clasificación de las fallas
 y actividades en los trabajos de mantenimiento y reparación realizados por la empresa SGS
 Chile, las cuales se encuentran contenidas en campos de texto no estructurados. Para ello
@@ -25,7 +25,7 @@ LDA se pueden identificar patrones generales y fáciles de representar, mientras
 **Palabras clave:** Minería de textos, clusterización, modelamiento de tópicos, k-medias,
 clasificación de fallas y actividades, mantención y reparación.
 
-**Abstract**
+### Abstract
 The study seeks for a solution to the problem of identification and classification of faults and
 activities in the maintenance and repair work done by SGS Chile, which are contained in
 unstructured text fields. For this purpose, two text mining clustering techniques were used,
