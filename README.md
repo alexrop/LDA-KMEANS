@@ -1,4 +1,4 @@
-# Diseño, desarrollo e implementación de un sistema de clasificación de fallas usando Text Mining en servicios de mantenimiento y reparación**
+# Diseño, desarrollo e implementación de un sistema de clasificación de fallas usando Text Mining en servicios de mantenimiento y reparación
 
 ### Resumen
 El estudio se enfoca en dar solución al problema de identificación y clasificación de las fallas
